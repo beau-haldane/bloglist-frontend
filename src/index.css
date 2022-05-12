@@ -1,0 +1,24 @@
+h2 {
+  color: green;
+  font-style: italic;
+}
+
+.notification {
+color: rgb(0, 146, 66);
+background: lightgrey;
+font-size: 20px;
+border-style: solid;
+border-radius: 5px;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+.error {
+color: rgb(240, 0, 0);
+background: lightgrey;
+font-size: 20px;
+border-style: solid;
+border-radius: 5px;
+padding: 10px;
+margin-bottom: 10px;
+}
